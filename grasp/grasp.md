@@ -3,7 +3,7 @@ The **GRASP** principles or patterns are a learning aid to help you understand e
 The full list of GRASP patterns cosists of 9 items:
 - [Information Expert](information-expert.md)
 - [Creator](creator.md)
-- Controller
+- [Controller](controller.md)
 - Low Coupling
 - High Cohesion
 - Polymorphism
