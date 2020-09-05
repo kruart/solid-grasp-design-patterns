@@ -4,8 +4,8 @@ The full list of GRASP patterns cosists of 9 items:
 - [Information Expert](information-expert.md)
 - [Creator](creator.md)
 - [Controller](controller.md)
-- Low Coupling
-- High Cohesion
+- [Low Coupling](low-coupling.md)
+- [High Cohesion](high-cohesion.md)
 - Polymorphism
 - Pure Fabrication
 - Indirection
