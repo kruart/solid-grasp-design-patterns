@@ -6,7 +6,7 @@ The full list of GRASP patterns cosists of 9 items:
 - [Controller](controller.md)
 - [Low Coupling](low-coupling.md)
 - [High Cohesion](high-cohesion.md)
-- Polymorphism
+- [Polymorphism](polymorphism.md)
 - Pure Fabrication
 - Indirection
 - Protected Variations
