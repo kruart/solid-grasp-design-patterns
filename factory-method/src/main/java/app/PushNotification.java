@@ -1,4 +1,4 @@
-package design_patterns.factory_method;
+package app;
 
 public class PushNotification implements Notification {
     @Override

@@ -1,4 +1,4 @@
-package design_patterns.factory_method;
+package app;
 
 public class MessageService {
     public static void main(String[] args) {

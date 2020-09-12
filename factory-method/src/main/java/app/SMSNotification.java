@@ -1,4 +1,4 @@
-package design_patterns.factory_method;
+package app;
 
 public class SMSNotification implements Notification {
     @Override
