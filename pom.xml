@@ -23,10 +23,11 @@
     </build>
     <modules>
         <module>abstract-factory</module>
+        <module>adapter</module>
+        <module>builder</module>
         <module>factory-method</module>
         <module>prototype</module>
         <module>singleton</module>
-        <module>builder</module>
     </modules>
 
     <dependencies>
