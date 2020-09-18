@@ -12,3 +12,4 @@ Structural Patterns:
 - [Bridge](bridge/README.md)
 - [Composite](composite/README.md)
 - [Decorator](decorator/README.md)
+- [Facade](facade/README.md)
