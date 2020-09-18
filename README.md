@@ -11,3 +11,4 @@ Structural Patterns:
 - [Adapter](adapter/README.md)
 - [Bridge](bridge/README.md)
 - [Composite](composite/README.md)
+- [Decorator](decorator/README.md)
