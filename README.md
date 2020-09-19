@@ -13,3 +13,4 @@ Structural Patterns:
 - [Composite](composite/README.md)
 - [Decorator](decorator/README.md)
 - [Facade](facade/README.md)
+- [Flyweight](flyweight/README.md)
