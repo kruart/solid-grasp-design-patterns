@@ -16,7 +16,7 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
-                    <release>14</release>
+                    <release>15</release>
                 </configuration>
             </plugin>
         </plugins>
@@ -24,16 +24,17 @@
     <modules>
         <module>abstract-factory</module>
         <module>adapter</module>
-        <module>builder</module>
-        <module>factory-method</module>
-        <module>prototype</module>
-        <module>singleton</module>
         <module>bridge</module>
+        <module>builder</module>
+        <module>chain-of-responsibility</module>
         <module>composite</module>
         <module>decorator</module>
         <module>facade</module>
+        <module>factory-method</module>
         <module>flyweight</module>
+        <module>prototype</module>
         <module>proxy</module>
+        <module>singleton</module>
     </modules>
 
     <dependencies>

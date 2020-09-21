@@ -15,7 +15,7 @@ public class Client {
     }
 
     void addSiteToBlackList(String url) {
-        if (server instanceof ProxyWebServer proxy) {   // jdk 14 experimental features must be turned on to work
+        if (server instanceof ProxyWebServer proxy) {   // jdk 15 experimental features must be turned on to work
             proxy.blockWebsite(url);
             return;
         }
