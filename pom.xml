@@ -27,6 +27,7 @@
         <module>bridge</module>
         <module>builder</module>
         <module>chain-of-responsibility</module>
+        <module>command</module>
         <module>composite</module>
         <module>decorator</module>
         <module>facade</module>
