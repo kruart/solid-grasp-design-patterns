@@ -32,6 +32,7 @@
         <module>facade</module>
         <module>factory-method</module>
         <module>flyweight</module>
+        <module>iterator</module>
         <module>prototype</module>
         <module>proxy</module>
         <module>singleton</module>

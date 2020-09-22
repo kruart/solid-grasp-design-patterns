@@ -15,3 +15,7 @@ Structural Patterns:
 - [Facade](facade/README.md)
 - [Flyweight](flyweight/README.md)
 - [Proxy](proxy/README.md)
+
+Behavioral Patterns: 
+- [Chain of Responsibility](chain-of-responsibility/README.md)
+- [Iterator](iterator/README.md)
