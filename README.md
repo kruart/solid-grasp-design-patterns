@@ -18,4 +18,6 @@ Structural Patterns:
 
 Behavioral Patterns: 
 - [Chain of Responsibility](chain-of-responsibility/README.md)
+- [Interpreter](interpreter/README.md)
 - [Iterator](iterator/README.md)
+- [Mediator](mediator/README.md)
