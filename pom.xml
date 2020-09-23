@@ -33,6 +33,7 @@
         <module>facade</module>
         <module>factory-method</module>
         <module>flyweight</module>
+        <module>interpreter</module>
         <module>iterator</module>
         <module>prototype</module>
         <module>proxy</module>
